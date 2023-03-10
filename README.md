@@ -1,2 +1,2 @@
-# Web-Develoipment-
+# Web-Development-
 Html, Css, JavaScript
